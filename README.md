@@ -18,13 +18,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Carrito de Compras</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Send Email</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Buscador de Carros</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Antonio Valentín - cesar_anto30@hotmail.com
 
-Project Link: [https://github.com/AntonioValentinSayago/minsait-valentin](https://github.com/AntonioValentinSayago/minsait-valentin.git)
+Project Link: [https://github.com/AntonioValentinSayago/javascript-lit-element_V2.0](https://github.com/AntonioValentinSayago/javascript-lit-element_V2.0)
 
 
 
