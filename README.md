@@ -2,7 +2,7 @@
 <br />
 <p align="center">
  <a href="https://github.com/AntonioValentinSayago/minsait-valentin">
-    <img src="img/logo.png" alt="Logo" width="160" height="160">
+    <img src="logov1.png" alt="Logo" width="50%">
  </a>
 
   <h3 align="center">JavaScript Moderno 2023 / Lit Element V2.0</h3>
